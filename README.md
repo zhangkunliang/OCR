@@ -563,6 +563,5 @@ copies or substantial portions of the Software.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=your-username/ocr-system&type=Date)](https://star-history.com/#your-username/ocr-system&Date)
 
-**📧 联系我们**: [dev@example.com](mailto:dev@example.com) | **🌐 官网**: [https://ocr-system.com](https://ocr-system.com)
 
 </div>
